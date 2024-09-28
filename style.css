@@ -16,7 +16,6 @@
 
 @media only screen and (max-width: 600px) {
     .left img {
-        border: 2px solid red;
         height: 300px;
         width: 80%;
         object-fit: cover;
